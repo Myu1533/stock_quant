@@ -1,5 +1,5 @@
 import random
-import matplotlib.pyplot as plt
+import matplotlib_by_fun.pyplot as plt
 import numpy as np
 from timeit import timeit
 

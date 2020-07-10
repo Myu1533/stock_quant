@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib_by_fun.pyplot as plt
 
 stock_data = np.random.normal(loc=10.0, scale=1.0, size=1000)
 stock_data = np.around(stock_data, 2)
